@@ -37,15 +37,19 @@ Remember that your nested list map actually looks like this:
 """
 
 # 🚨 Don't change the code below 👇
-row1 = ["⬜️","️⬜️","️⬜️"]
-row2 = ["⬜️","⬜️","️⬜️"]
-row3 = ["⬜️️","⬜️️","⬜️️"]
-map = [row1, row2, row3]
+row1 = ["⬜️", "️⬜️", "️⬜️"]
+row2 = ["⬜️", "⬜️", "️⬜️"]
+row3 = ["⬜️️", "⬜️️", "⬜️️"]
+draw_map = [row1, row2, row3]
 print(f"{row1}\n{row2}\n{row3}")
 position = input("Where do you want to put the treasure? ")
 # 🚨 Don't change the code above 👆
 
 # Write your code below this row 👇
+across = int(position[0])
+down = int(position[1])
+
+draw_map[down - 1][across - 1] = "X"
 
 # Write your code above this row 👆
 
