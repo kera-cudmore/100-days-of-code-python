@@ -40,7 +40,7 @@ Project: [Tip Calulator](day_2_tip_calculator.py)
 * [Exercise 4: Pizza Order Practice](day_3/day_3_exercise_4.py)
 * [Exercise 5: Love Calculator](day_3/day_3_exercise_5.py)
 
-Project: [Treasure Island]()
+Project: [Treasure Island](day_3/day_3_treasure_island.py)
 
 ---
 

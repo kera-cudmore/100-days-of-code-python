@@ -51,10 +51,32 @@ Love Score = 53
 Print: "Your score is 53."
 """
 
-# 🚨 Don't change the code below 👇
 print("Welcome to the Love Calculator!")
 name1 = input("What is your name? \n")
 name2 = input("What is their name? \n")
 # 🚨 Don't change the code above 👆
 
 # Write your code below this line 👇
+couple = name1.lower() + name2.lower()
+t = couple.count("t")
+r = couple.count("r")
+u = couple.count("u")
+e = couple.count("e")
+
+true_count = str(t + r + u + e)
+
+l = couple.count("l")
+o = couple.count("o")
+v = couple.count("v")
+e = couple.count("e")
+
+love_count = str(l + o + v + e)
+
+score = true_count + love_count
+
+if score < 10 or score > 90:
+    print(f"Your score is {score}, you go together like coke and mentos.")
+elif score >= 40 and score <= 50:
+    print(f"Your score is {score}, you are alright together.")
+else:
+    print(f"Your score is {score}.")
