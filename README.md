@@ -13,43 +13,48 @@ Projects created for the [100 Days of Code: The Complete Python Pro Bootcamp for
 
 ## Day 1
 
-[Band Name Generator](day_1_band_name_generator.py)
+* [Exercise 1: Printing](day_1/day_1_exercise_1.py)
+* [Exercise 2: Debugging Practice](day_1/day_1_exercise_2.py)
+* [Exercise 3: Input Function](day_1/day_1_exercise_3.py)
+* [Exercise 4: Variables](day_1/day_1_exercise_4.py)
+
+Project: [Band Name Generator](day_1/day_1_band_name_generator.py)
 
 ---
 
 ## Day 2
 
-[Tip Calulator](day_2_tip_calculator.py)
+Project: [Tip Calulator](day_2_tip_calculator.py)
 
 ---
 
 ## Day 3
 
-[Treasure Island]()
+Project: [Treasure Island]()
 
 ---
 
 ## Day 4
 
-[Rock Paper Scissors]()
+Project: [Rock Paper Scissors]()
 
 ---
 
 ## Day 5
 
-[Create a Password Generator]()
+Project: [Create a Password Generator]()
 
 ---
 
 ## Day 6
 
-[Escaping the Maze]()
+Project: [Escaping the Maze]()
 
 ---
 
 ## Day 7
 
-[Hangman]()
+Project: [Hangman]()
 
 ---
 
