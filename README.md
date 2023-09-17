@@ -24,11 +24,21 @@ Project: [Band Name Generator](day_1/day_1_band_name_generator.py)
 
 ## Day 2
 
+* [Exercise 1: Data Types](day_2/day_2_exercise_1.py)
+* [Exercise 2: BMI Calculator](day_2/day_2_exercise_2.py)
+* [Exercise 3: Life in Weeks](day_2/day_2_exercise_3.py)
+
 Project: [Tip Calulator](day_2_tip_calculator.py)
 
 ---
 
 ## Day 3
+
+* [Exercise 1: Odd or Even](day_3/day_3_exercise_1.py)
+* [Exercise 2: BMI 2.0](day_3/day_3_exercise_2.py)
+* [Exercise 3: Leap Year](day_3/day_3_exercise_3.py)
+* [Exercise 4: Pizza Order Practice](day_3/day_3_exercise_4.py)
+* [Exercise 5: Love Calculator](day_3/day_3_exercise_5.py)
 
 Project: [Treasure Island]()
 
@@ -36,11 +46,20 @@ Project: [Treasure Island]()
 
 ## Day 4
 
+* [Exercise 1: Heads or Tails](day_4/day_4_exercise_1.py)
+* [Exercise 2: Banker Roulette](day_4/day_4_exercise_2.py)
+* [Exercise 3: Treasure Map](day_4/day_4_exercise_3.py)
+
 Project: [Rock Paper Scissors]()
 
 ---
 
 ## Day 5
+
+* [Exercise 1: Average Height](day_5/day_5_exercise_1.py)
+* [Exercise 2: High Score](day_5/day_5_exercise_2.py)
+* [Exercise 3: Adding Even Numbers](day_5/day_5_exercise_3.py)
+* [Exercise 4: FizzBuzz](day_5/day_5_exercise_4.py)
 
 Project: [Create a Password Generator]()
 
@@ -60,13 +79,21 @@ Project: [Hangman]()
 
 ## Day 8
 
+* [Exercise 1: Paint Area Calculator](day_8/day_8_exercise_1.py)
+* [Exercise 2: Prime Numbers](day_8/day_8_exercise_2.py)
+
 ---
 
 ## Day 9
 
+* [Exercise 1: Grading Program](day_9/day_9_exercise_1.py)
+* [Exercise 2: Dictionary in List](day_9/day_9_exercise_2.py)
+
 ---
 
 ## Day 10
+
+* [Exercise 1: Days in Month](day_10/day_10_exercise_1.py)
 
 ---
 
@@ -79,6 +106,10 @@ Project: [Hangman]()
 ---
 
 ## Day 13
+
+* [Exercise 1: Debugging Odd or Even](day_13/day_13_exercise_1.py)
+* [Exercise 2: Debugging Leap Year](day_13/day_13_exercise_2.py)
+* [Exercise 3: Debugging FizzBuzz](day_13/day_13_exercise_3.py)
 
 ---
 
@@ -132,6 +163,12 @@ Project: [Hangman]()
 
 ## Day 26
 
+* [Exercise 1: Squaring Numbers](day_26/day_26_exercise_1.py)
+* [Exercise 2: Filtering Even Numbers](day_26/day_26_exercise_2.py)
+* [Exercise 3: Data Overlap](day_26/day_26_exercise_3.py)
+* [Exercise 4: Dictionary Comprehension 1](day_26/day_26_exercise_4.py)
+* [Exercise 5: Dictionary Comprehension 2](day_26/day_26_exercise_5.py)
+
 ---
 
 ## Day 27
@@ -147,6 +184,9 @@ Project: [Hangman]()
 ---
 
 ## Day 30
+
+* [Exercise 1: IndexError Handling](day_30/day_30_exercise_1.py)
+* [Exercise 2: KeyError Handling](day_30/day_30_exercise_2.py)
 
 ---
 
@@ -244,9 +284,13 @@ Project: [Hangman]()
 
 ## Day 54
 
+* [Exercise 1: Create your own Python Decorator](day_54/day_54_exercise_1.py)
+
 ---
 
 ## Day 55
+
+* [Exercise 1: Advanced Decorators](day_55/day_55_exercise_1.py)
 
 ---
 
