@@ -38,3 +38,12 @@ Hint
 Remember your answer should start from 1 and go up to and including 100.
 2. Each number/text should be printed on a separate line.
 """
+for number in range(1, 101):
+    if number % 3 == 0 and number % 5 == 0:
+        print("FizzBuzz")
+    elif number % 3 == 0:
+        print("Fizz")
+    elif number % 5 == 0:
+        print("Buzz")
+    else:
+        print(number)
