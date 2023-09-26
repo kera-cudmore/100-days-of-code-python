@@ -67,7 +67,7 @@ Project: [Create a Password Generator]()
 
 ## Day 6
 
-Project: [Escaping the Maze]()
+Escaping the Maze: Code for this [online challenge](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json).
 
 ---
 
