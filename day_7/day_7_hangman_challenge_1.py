@@ -1,4 +1,4 @@
-"""Day 7 Project: Hangman"""
+"""Day 7 Project: Hangman - Challenge 1"""
 
 import random
 
@@ -20,7 +20,8 @@ guess = input("Guess a letter\n").lower()
 # Check if the letter the user guessed (guess) is one of the letters
 # in the chosen_word.
 
-if guess in chosen_word:
-    print(f"Congratulations! {guess} is in the word")
-else:
-    print(f"Sorry, {guess} isn't in the word")
+for letter in chosen_word:
+    if letter == guess:
+        print(f"Congratulations! {guess} is in the word")
+    else:
+        print(f"Sorry, {guess} isn't in the word")
