@@ -73,7 +73,7 @@ Escaping the Maze: Code for this [online challenge](https://reeborg.ca/reeborg.h
 
 ## Day 7
 
-Project: [Hangman]()
+Project: [Hangman](day_7/day_7_final_challenge/main.py)
 
 ---
 
