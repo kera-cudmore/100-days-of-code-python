@@ -13,7 +13,7 @@ number of cans = (2 * 4) / 5
 
     = 1.6
 
-But because you can't buy 0.6 of a can of paint, the result should be rounded
+But because you can't buy 1.6 of a can of paint, the result should be rounded
 up to 2 cans.
 
 IMPORTANT: Notice the name of the function and parameters must match those on
@@ -21,6 +21,11 @@ line 13 for the code to work.
 """
 
 # Write your code below this line 👇
+import math
+
+
+def paint_calc(height, width, cover):
+    print(f'You will need {math.ceil((height * width) / cover)} cans of paint')
 
 
 # Write your code above this line 👆
